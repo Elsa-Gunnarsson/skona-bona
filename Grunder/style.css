@@ -1,3 +1,8 @@
 body{
-    background-color:rgb(253, 228, 231);
+    background-color:rgb(255, 255, 255);
+    background-image: url("imgs/e5503acd-7a96-4019-a5c8-9be6ac2d7d52.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-attachment: fixed;
+    background-position: bottom right;
 }
